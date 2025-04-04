@@ -71,7 +71,7 @@ This is a structured system that blends on-chain data, macro cycles, and intrada
 
 For business inquiries, collaborations or access to internal systems:
 
-📧 hi@innovaidigital.com  
+📧 innovationai@mail.com  
 🐙 GitHub: [@Dawitlior](https://github.com/Dawitlior)  
 🌐 Website: [innovaidigital.com](https://innovaidigital.com)
 
