@@ -41,7 +41,7 @@ This project is a fusion of **software engineering, system architecture, and str
 - **Frontend**: React, Tailwind CSS, TypeScript  
 - **Automation**: Make (Integromat), Airtable, Voiceflow, Webhooks  
 - **AI Layer**: GPT, Agentive  
-- **Hosting**: Vercel + CDN Optimization  
+- **Hosting**: Netlify
 
 ---
 
