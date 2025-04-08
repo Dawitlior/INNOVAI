@@ -59,13 +59,5 @@ For business inquiries, collaborations or access to internal systems:
 🐙 GitHub: [@Dawitlior](https://github.com/Dawitlior)  
 🌐 Website: [innovaidigital.com](https://innovaidigital.com)
 
----
-
-## 🛡 Disclaimer
-
-This repository contains **architecture blueprints and documentation** for internal systems. The full source code is **not open source** and is licensed for **private business use only**.  
-Please contact for access or collaboration opportunities.
-
----
 
 > ⚙️ Built with vision, automation, and precision.
