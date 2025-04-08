@@ -25,22 +25,6 @@ This project is a fusion of **software engineering, system architecture, and str
 
 ---
 
-## 📊 Macro-Crypto Investment System
-
-In parallel to business automation, the creator of INNOVAI has developed a **personal macro-crypto strategy framework** that operates on top of:
-
-- 📈 **Custom-built trend-following systems**
-- 📊 **Multi-layered global liquidity cycle analysis**
-- 📐 **Relative strength modeling over 70+ crypto assets**
-- 🧠 **SDCA (Strategic Dollar Cost Averaging) overlays**
-- 📑 **Signal aggregation dashboards** fully engineered in Google Sheets
-
-This is a structured system that blends on-chain data, macro cycles, and intraday-state synchronization – coded, refined, and operated entirely in-house.
-
-> 🧩 *"I don’t follow systems. I build them."*
-
----
-
 ## 📂 Project Structure
 
 /components → UI elements and frontend logic
